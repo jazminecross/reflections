@@ -1,0 +1,31 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+	Using fc will be a useful tool to quickly find the difference between two versions of a project. This can effectively show me if I have made a typo in a later version of a project and pinpoint where the change needs to be. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	Having the entire history of a file could help me as an individual see where I was making changes in case I need to go back to an older version of something. Also, if working on a team with other people making changes, it can be a powerful tool to be able to see who made what changes and at what point in the project they were made. 
+    
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+    The pro's of manual commits are that you have control how frequent and accruate the commits are. Rather than inturrupted projects being commited half way through or multiple items being saved in the same commit, you are able to add notes and specify each commit in git. This can also help with the clutter of your commit list, as there will only be as many commits to sort through as there are changes that have been made worth noting. 
+
+    The cons of manual commits are that you have to take the extra time to actually commit and make a note of something each time you complete it. If you forget or if you neglect to commit, then you could potentially have to sort through large amounts of work to find the specific change you are looking for. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    In git you are often using files that are linked together, where a change in one will effect several other files in the prohect. For example, if you add a button to a website, the changes will be reflected in the index, css, and js (at least) files and all will need to be referenced in the commit as a whole respoitory rather than a single file. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
