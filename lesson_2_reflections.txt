@@ -1,3 +1,4 @@
+
 What happens when you initialize a repository? Why do you need to do it?
 - when you initialize a repository, you create a new space where you can track and save commits 
 
@@ -7,3 +8,9 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 - store the commit here until you have completed the section you are working on to commit. You can store it here so you do not lose track of what you are working on. 
  
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+ - Branches are helpful when you are experimenting on a project, testing out something, or unsure if you want to make the permenant change. For example, if you were creating a different version of your project in another language, you would start a new branch where you could chnage the langauge with keeping the original in tact. 
+How do the diagrams help you visualize the branch structure?
+ - branches on the diagrams help show where your commits are saved. If you make a change after a commit, this will not be included in the project when pulled from git 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+- you have the combined details of the commmits when you merge two branches together. The diagram shows that any commits saved after the merge will not show up in the new master
