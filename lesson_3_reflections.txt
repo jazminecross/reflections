@@ -7,7 +7,7 @@ You would also use a remote repository when you need to have multiple people wor
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    You would want to pull changes manually rather than have Git auto stay up-to-date in case you want to review something before making public on a repository. 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
@@ -17,12 +17,15 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Benefit of copy of latest known state of teh remote stored locally is that you can go back to fix contradictions when mulitple versions are pushed to git. 
+
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Typically you would have to send versions back and forth between muliple people working on the same project and collaborate with one another who made what changes. 
+It is much easier using github to keep the work organized and clean. Work can be revised before being added to the main project which is very helpful with experimentation. 
+
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
