@@ -11,8 +11,7 @@ automatically stay up-to-date with your remote repository?
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-
-    Fill in your answer here
+get assistance with the link that will not open in the support 
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
@@ -30,4 +29,5 @@ It is much easier using github to keep the work organized and clean. Work can be
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you want to show your work that you have made to others for feedback and review before merging to master. 
+Allows for time to collaborate with others before changing out from under others. 

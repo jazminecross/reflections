@@ -14,3 +14,5 @@ How do the diagrams help you visualize the branch structure?
  - branches on the diagrams help show where your commits are saved. If you make a change after a commit, this will not be included in the project when pulled from git 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 - you have the combined details of the commmits when you merge two branches together. The diagram shows that any commits saved after the merge will not show up in the new master
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+- pros would be that it takes the work out of keeping track of commit order. Cons are that it is not capable of knowing which commits are to be kept and which are not when you have multiple branches being merges back together. 
